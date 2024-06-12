@@ -1,3 +1,5 @@
 print("hello world")        
 print("loser lulu")
 print("Matyaz")
+print("matyaz moosa")
+print("Hellow")
